@@ -1,7 +1,10 @@
 # LinkedIn scraping
-Concept : Set 1 of Company URLs
-          Set 2 of Specific Designation
-          Result : Scraping all the Employees in given companies with that Designation
+Concept : 
+Set 1 of Company URLs
+Set 2 of Specific Designation
+Result : Scraping all the Employees in given companies with that Designation
+
+
 Environment : Jupyter, VisualStudio
 Language : Python
 Libraries : BeautifulSoup, Selenium, 
